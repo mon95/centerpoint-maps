@@ -8,6 +8,10 @@ Our code is forked off of the CenterPoint repository and modified as required to
 
 For more details refer to our [project report](https://github.com/mon95/centerpoint-maps/blob/master/ACV_Project_FinalReport.pdf)
 
+
+*Note: This repo has been moved (partially) from our internal private repository to serve as documentation. For more info, please reach out over email.*
+
+
 Below is the README for the original CenterPoint project. Please refer to the [original centerpoint repository](https://github.com/tianweiy/CenterPoint) for any details!
 
 # Center-based 3D Object Detection and Tracking
