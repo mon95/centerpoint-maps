@@ -6,7 +6,7 @@ Our main theme is to experiment with ideas where we allow extra information flow
 
 Our code is forked off of the CenterPoint repository and modified as required to incorporate our changes. The setup required to run our code is the same as that to run Centerpoint, but with the modification that the data directory will require HD Maps to be generated and stored in the format specified in our script.
 
-For more details refer to our project presentation and project report.
+For more details refer to our [project report](https://github.com/mon95/centerpoint-maps/blob/master/ACV_Project_FinalReport.pdf)
 
 
 
